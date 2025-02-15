@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Amiri';
+    src: url('/fonts/Amiri.ttf') format('truetype');
+  }
+  
+  body {
+    font-family: 'Amiri', serif;
+    direction: rtl; /* Lecture de droite à gauche pour l'arabe */
+  }
+  
